@@ -1,0 +1,23 @@
+.Meaning .PartOfSpeech {
+  text-transform: uppercase;
+  font-size: 15px;
+  margin-top: 20px;
+  border: solid;
+  border-color: mediumaquamarine;
+  border-radius: 4px;
+  max-width: fit-content;
+  padding: 5px;
+}
+
+.Meaning .Example {
+  text-decoration: underline;
+  margin-top: -25px;
+}
+
+.Meaning .Definition {
+  margin-top: -15px;
+}
+
+em {
+  font-size: 13px;
+}
