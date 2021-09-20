@@ -1,0 +1,12 @@
+.Phonetic a {
+  color: mediumaquamarine;
+  text-decoration: none;
+}
+
+.Phonetic a:hover {
+  color: midnightblue;
+}
+
+.Phonetic a:visited {
+  color: midnightblue;
+}
