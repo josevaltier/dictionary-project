@@ -4,7 +4,7 @@ import "./Dictionary.css";
 import Results from "./Results.js";
 
 export default function Dictionary() {
-  let [keyword, setKeyword] = useState("wanderlust");
+  let [keyword, setKeyword] = useState("mountain");
   let [results, setResults] = useState(null);
   let [loaded, setLoaded] = useState(false);
 
