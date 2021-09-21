@@ -18,7 +18,7 @@
 
 section {
   border: solid;
-  border-color: #385170;
+  border-color: rgba(56, 81, 112, 0.8);
   border-radius: 6px;
   padding: 10px;
 }
