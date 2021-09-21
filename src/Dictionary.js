@@ -52,7 +52,7 @@ export default function Dictionary() {
   if (loaded) {
     return (
       <div className="Dictionary">
-        <section className="IntroAndForm">
+        <section>
           <div className="Intro">What word do you want to search for?</div>
           <form onSubmit={handleSubmit}>
             <input

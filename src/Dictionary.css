@@ -19,7 +19,7 @@
   margin: 0 auto;
 }
 
-.Dictionary .IntroAndForm {
+.Dictionary section {
   border: solid;
   border-color: rgba(56, 81, 112, 0.8);
   border-radius: 4px;
