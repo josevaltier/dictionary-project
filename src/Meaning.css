@@ -11,20 +11,15 @@
   text-decoration: underline;
   font-weight: 550;
 }
-.Meaning .Example {
-  text-decoration: underline;
-  font-weight: 550;
-  margin-top: -25px;
-}
 
 .Meaning .ExampleText {
-  opacity: 85%;
+  opacity: 90%;
 }
 
-.Meaning .DefinitionExample {
+section {
   border: solid;
   border-color: #385170;
-  border-radius: 4px;
+  border-radius: 6px;
   padding: 10px;
 }
 em {
