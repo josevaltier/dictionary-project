@@ -29,3 +29,13 @@
 .Dictionary section {
   margin-bottom: 10px;
 }
+
+.Dictionary a {
+  text-decoration: none;
+  color: rgb(56, 81, 112);
+}
+
+.Dictionary .coder {
+  text-align: center;
+  font-size: 12px;
+}

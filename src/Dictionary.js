@@ -65,6 +65,24 @@ export default function Dictionary() {
         </section>
         <Results results={results} />
         <Photos photos={photos} />
+        <div className="coder">
+          This project was coded by{" "}
+          <a
+            href="https://www.linkedin.com/in/josefina-valtier-031bb2110/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Josefina Valtier
+          </a>{" "}
+          and is{" "}
+          <a
+            href="https://github.com/josevaltier/dictionary-project"
+            target="_blank"
+            rel="noreferrer"
+          >
+            open-sourced on Github
+          </a>
+        </div>
       </div>
     );
   } else {
